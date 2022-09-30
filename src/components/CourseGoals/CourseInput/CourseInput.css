@@ -22,3 +22,8 @@
   background: #fad0ec;
   border-color: #8b005d;
 }
+
+.form-control input.error {
+  background: #b3000c60;
+  border-color: #b91414;
+}
